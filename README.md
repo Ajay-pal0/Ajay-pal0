@@ -2,11 +2,11 @@
 <h3 align="center">Full stack developer in python from India</h3>
 
 - 📫 How to reach me **Ajaypal05192@gmail.com**
-- 
+
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-pal0&show_icons=true&locale=en&layout=compact" alt="ajay-pal0" />
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-pal0&" alt="ajay-pal0" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-pal0&show_icons=true&locale=en" alt="ajay-pal0" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-pal0&show_icons=true&locale=en&layout=compact" alt="ajay-pal0" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-pal0&" alt="ajay-pal0" /><br/></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-pal0&show_icons=true&locale=en" alt="ajay-pal0" /><br/>
 </div>
 
 
