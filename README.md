@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Pal</h1>
+<h1 align="center">Hi 👋, I'm Ajay </h1>
 <h3 align="center">Full stack developer in python from India</h3>
 
 - 📫 How to reach me **Ajaypal05192@gmail.com**
