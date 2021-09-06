@@ -41,5 +41,10 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/shinchan_1432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinchan_1432" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ajay-pal0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-pal0" height="30" width="40" /></a>
-</p>
+ </p>
+ 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ajay-pal0" data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ajay-pal0?trk=profile-badge">Ajay Pal</a>
+</div>
+              
+ 
