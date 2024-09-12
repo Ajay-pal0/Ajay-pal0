@@ -10,11 +10,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ajay-pal0&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
 
+  <!-- Day-Night Mode Toggle Button -->
+  <div align="center" style="margin-top: 20px;">
+    <button id="theme-toggle">Toggle Day/Night Mode</button>
+  </div>
+
   <div>
     <h3>Languages and Tools:</h3>
     <p>
-      <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-      <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /></a>
+      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
       <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
       <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /></a>
@@ -35,4 +39,16 @@
       <a href="https://www.linkedin.com/in/ajay-pal0/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     </p>
   </div>
+
+  <!-- JavaScript for Day/Night Mode -->
+  <script>
+    const toggleButton = document.getElementById('theme-toggle');
+    let isDarkMode = false;
+
+    toggleButton.addEventListener('click', () => {
+      document.body.style.backgroundColor = isDarkMode ? '#fff' : '#333';
+      document.body.style.color = isDarkMode ? '#000' : '#fff';
+      isDarkMode = !isDarkMode;
+    });
+  </script>
 </body>
