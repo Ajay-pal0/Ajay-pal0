@@ -1,6 +1,6 @@
 <body>
   <h1 align="center">Hi 👋, I'm Ajay </h1>
-  <h3 align="center">Full stack developer in python from India</h3>
+  <h3 align="center">Software Developer from India</h3>
 
   - 📫 How to reach me **Ajaypal05192@gmail.com**
 
