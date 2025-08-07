@@ -1,108 +1,122 @@
+
 # AJAY PAL
-**Frontend Software Developer**  
+**Software Developer**  
 Airoli, Navi Mumbai, India  
 📞 +91 7208401709 | 📧 ajaypal05192@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajay-pal0) | [GitHub](https://github.com/ajay-pal0)
+🌐 [LinkedIn](https://www.linkedin.com/in/ajay-pal0) | [GitHub](https://github.com/ajay-pal0)
 
 ---
 
-## PROFESSIONAL SUMMARY
-Innovative Frontend Developer with **3+ years of experience** building high-performance web and mobile applications using **React.js**, **React Native**, and modern UI frameworks. Proven ability to translate complex business requirements into scalable, user-centric solutions for **SaaS platforms** across **Accounting, Legal Tech, AI, and HRMS domains**. Passionate about **clean architecture**, **component reusability**, and **performance optimization**, with a consistent track record of delivering impactful features that enhance **user engagement** and **operational efficiency**.
+## SUMMARY
+Results-driven Software Developer with 3+ years of experience in building performant, scalable, and user-centric web and mobile applications. Specializes in modern frontend frameworks like React.js and React Native, with strong proficiency in Tailwind CSS and Material UI. Demonstrated success in delivering enterprise-grade financial platforms, AI dashboards, and compliance-driven tools with measurable performance improvements and excellent UX.
 
 ---
 
-## SKILLS
-- **Frontend:** React.js, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Material UI  
-- **State Management:** Redux Toolkit, Redux Thunk, Context API  
-- **Data Visualization:** Chart.js, Highcharts.js, React Grid Layout  
-- **Backend Integration:** REST APIs, Node.js (Basic), Python (Basic), Rust (Tauri)  
-- **Testing:** Jest, Enzyme, React Testing Library  
-- **Tools & DevOps:** Git, Webpack, npm/yarn, Firebase, SQLite, PayU, Keycloak  
-- **Architecture:** Modular Design, Reusable Components, Performance Optimization  
+## PROFESSIONAL HIGHLIGHTS
+- 3+ years of hands-on experience in frontend development (React.js, React Native, Tailwind CSS)  
+- Successfully delivered scalable solutions for accounting, HRMS, legal, and AI-based platforms  
+- Built and published custom UI components and tools adopted by teams and external users  
+- Deep understanding of dashboard design, data visualization, and low-latency UI performance  
 
 ---
 
-## WORK EXPERIENCE
+## EXPERIENCE
 
-### Software Developer  
-**Artdex & Cognoscis Technologies LLP – Navi Mumbai, India**  
-*Oct 2021 – Present*  
-- Spearheaded frontend development for enterprise SaaS products across **Finance, AI, and HRMS** sectors.  
-- Built **scalable architectures** and **reusable UI libraries**, reducing feature development time by 30%.  
-- Improved performance by 25% through state management refinements and optimized API integrations.  
-- Established frontend testing pipelines (Jest/Enzyme), ensuring **95%+ code coverage**.
+### Software Developer — *Artdex & Cognoscis Technologies LLP*  
+**Oct 2021 – Present**  
+- Led frontend efforts across multiple SaaS platforms including Finycs, Foundation AI, and internal tools  
+- Developed production-grade mobile and desktop applications with React Native and Tauri  
+- Contributed to complex data flows, payment systems, state management, and API integrations  
+- Delivered maintainable UIs with reusable components and robust testing pipelines  
 
 ---
 
 ## KEY PROJECTS
 
 ### Finycs – Cloud Accounting Software *(2022 – Present)*  
-**Tech:** React.js, React Native, Redux, Tailwind CSS, REST APIs, PayU, Chart.js, Highcharts.js  
-- Built full web and mobile interfaces for a global accounting SaaS with **multi-currency support**.  
-- Delivered real-time financial dashboards (P&L, cash flow) with **customizable widgets**.  
-- Developed a **Query Builder Tool** for defining user-specific KPIs and metrics.  
-- Integrated GST modules:  
-  - **E-Invoicing with IRN generation & PDF**  
-  - **E-Way Bills with automated logistics & tax prefills**  
-- Implemented **tax-inclusive subscription flows** with plan toggles and PayU payment gateway.
+**Tech Stack:** React.js, React Native, Tailwind CSS, Redux, REST APIs, PayU, Chart.js, Highcharts.js  
+- Developed and scaled the full web + mobile frontend architecture for multi-device access  
+- Designed real-time dashboards using Chart.js and Highcharts.js for income, expenses, P&L, and cashflow  
+- Delivered a fully dynamic Insights section with customizable widgets, chart templates, and user-driven configurations  
+- Built a Query Builder Tool that allows users to define custom KPIs (e.g., Revenue = Sales - Expense)  
+- Integrated full subscription workflows including tax-inclusive pricing, plan toggles, and PayU gateway  
+- Built GST compliance modules:  
+  - E-Invoice with IRN generation and PDF download  
+  - E-Way Bill with prefilled logistics, tax, and transport data  
+- Ensured responsive, modular design with Redux and React Router, supporting multi-business access  
 
 ### Inventory Management System & Bridge App *(2025 – Present)*  
-**Tech:** Tauri, React.js, Rust, REST APIs  
-- Developed a Tauri-based desktop inventory tool extending Finycs' item management module.  
-- Built a **Tally ERP sync app**, supporting real-time/manual triggers, logs, and status tracking.  
-- Integrated **Rust backend with React frontend** via Tauri, improving sync speed significantly.
+**Tech Stack:** Tauri, React.js, Rust, REST APIs  
+- Built a Tauri-based desktop inventory tool that expands Finycs' "Items" module into a fully featured inventory system  
+- Implemented advanced filtering, categorization, and bulk item operations  
+- Developed the Bridge App:  
+  - Syncs Tally ERP with Finycs in real-time  
+  - Supports multi-business sync history, manual/auto triggers, and status tracking  
+- Integrated Rust backend with React frontend using Tauri APIs  
+- Contributed to Rust logic to optimize data processing and significantly reduce sync time  
 
-### Foundation AI – Analytics Dashboard *(2023 – 2024)*  
-**Tech:** React.js, Tailwind CSS, React Grid Layout, Keycloak, Chart.js, Jest  
-- Created **drag-and-drop dashboards** using `react-grid-layout` for flexible analytics.  
-- Implemented **Keycloak RBAC** for user-specific layout persistence and access control.  
-- Built reusable UI components (tables, pickers, dropdowns) and ensured frontend quality with unit tests.
+### Foundation AI – Customizable Dashboard for Analytics *(2023 – 2024)*  
+**Tech Stack:** React.js, Tailwind CSS, React Grid Layout, Keycloak, Chart.js, Jest  
+- Designed a drag-and-drop dashboard using react-grid-layout for end-user layout control  
+- Built reusable components (tables, dropdowns, date pickers) and added authentication via Keycloak  
+- Implemented backend-linked layout persistence and widget personalization  
+- Created unit tests using Jest and Enzyme to ensure UI reliability  
 
-### Foundation AI – Table Extraction UI *(2023 – 2024)*  
-**Tech:** React.js, Tailwind CSS, Context API, ReTool, REST APIs  
-- Designed Excel-style UI for validating AI-extracted tables with **confidence scoring**.  
-- Added features for **multi-table merging**, validation thresholds, and real-time previews.  
-- Streamlined legal data workflows, enhancing document processing speed and accuracy.
+### Foundation AI – Table Extraction & Validation Interface *(2023 – 2024)*  
+**Tech Stack:** React.js, Tailwind CSS, Context API, ReTool, REST APIs  
+- Built multi-tabbed table view with manual editing, row/column addition, and header mapping  
+- Added cell-level validation, confidence-based highlighting, and auto-validation thresholds  
+- Developed merge tools for combining tables across pages (vertical & horizontal)  
+- Integrated real-time document alignment for each cell and streamlined review workflow  
 
 ### Indian Constitution & Polity App *(2022 – 2024)*  
-**Tech:** React.js, React Native, Redux, SQLite  
-- Built a cross-platform educational app for constitutional learning.  
-- Developed **offline access**, **text-to-speech**, and **community annotation features**.  
-- Introduced a **knowledge graph UI** for exploring article relationships.
+**Tech Stack:** React Native, Redux, SQLite  
+- Designed a knowledge graph interface to explore constitutional structure  
+- Implemented highlighting, bookmarking, note-taking, and community commentary features  
+- Added real-time polity news feeds for current affairs alignment  
+- Built complete offline mode using SQLite, and added text-to-speech narration  
 
-### Get It Done – HRMS & Task Management *(2022 – 2024)*  
-**Tech:** React.js, Tailwind CSS, Firebase, Chart.js  
-- Created modules for **Kanban task boards**, **team reviews**, and **gamified rewards**.  
-- Integrated **Firebase for real-time sync & authentication**.  
-- Developed dashboards and reports for activity insights using Chart.js.
+### Get It Done – HRMS & Task Management System *(2022 – 2024)*  
+**Tech Stack:** React.js, Tailwind CSS, Firebase, Chart.js  
+- Built core modules: Kanban task boards, gamified reward system, and team review dashboards  
+- Designed and implemented weekly performance reports with Chart.js  
+- Used Firebase for real-time data sync, auth, and lightweight infrastructure  
+- Achieved high adoption due to fast UX, intuitive design, and flexible access  
 
 ### Finalyze – Financial Analysis Platform *(2022)*  
-**Tech:** React.js, Chart.js, Highcharts.js, Material UI, Bootstrap, Styled-Components, Express.js  
-- Built dashboards for **multi-period comparisons** across P&L, balance sheets, and financial ratios.  
-- Enabled **dynamic report generation**, reducing manual efforts by 60%.
+**Tech Stack:** React.js, Chart.js, Highcharts.js, Material UI, Bootstrap, Styled-Components, Express.js  
+- Developed widgets and dashboards to visualize P&L, balance sheets, and custom ratios  
+- Enabled multi-period comparisons and custom filters using Chart.js and Highcharts.js  
+- Added routing, dropdowns, and responsive UI with React Router and MUI  
+- Reduced reporting overhead by 60% through dynamic and interactive visual tools  
 
 ---
 
 ## EDUCATION
-
 **BSc in Information Technology**  
-JVM Mehta Degree College, Navi Mumbai  
-*2017 – 2020*
+JVM Mehta Degree College, Navi Mumbai | *2017 – 2020*
 
 ---
 
-## CERTIFICATIONS
-
-- [Frontend Developer (React) – HackerRank (Jan 2025)](https://www.hackerrank.com/certificates/905792bd2b2e)  
-- [JavaScript (Basic) – HackerRank (Feb 2022)](https://www.hackerrank.com/certificates/8aa508d12494)  
-- [React – TestDome (Dec 2021)](https://www.testdome.com/certificates/f01651536bc8434da28b10e8bba1d8e9)  
-- [React (Basic) – HackerRank (Dec 2021)](https://www.hackerrank.com/certificates/1a0e6ce2b9eb)  
-- [Python (Basic) – HackerRank (Oct 2021)](https://www.hackerrank.com/certificates/753c8912e702)  
-- [MTA: Intro to Programming (Python) – Microsoft (Jul 2021)](https://www.credly.com/badges/3a44bd3a-e514-4672-83bb-f2f70c398678?source=linked_in_profile)
+## TECHNICAL SKILLS
+- **Frontend:** React.js, React Native, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI  
+- **State Management:** Redux, Context API  
+- **Data & Visualization:** Chart.js, Highcharts.js  
+- **Tools & Platforms:** Git, Webpack, npm, Tauri, Firebase, SQLite, React Grid Layout  
+- **Backend/Other:** REST APIs, Node.js (basic), Python (basic), Rust integration, PayU, Jest, Enzyme  
 
 ---
 
-## OPEN SOURCE & COMMUNITY
+## LICENSES & CERTIFICATIONS
+- [Frontend Developer (React) – HackerRank (Issued Jan 2025)](https://www.hackerrank.com/certificates/905792bd2b2e)  
+- [JavaScript (Basic) – HackerRank (Issued Feb 2022)](https://www.hackerrank.com/certificates/8aa508d12494)  
+- [React – TestDome (Issued Dec 2021)](https://www.testdome.com/certificates/f01651536bc8434da28b10e8bba1d8e9)  
+- [React (Basic) – HackerRank (Issued Dec 2021)](https://www.hackerrank.com/certificates/1a0e6ce2b9eb)  
+- [Python (Basic) – HackerRank (Issued Oct 2021)](https://www.hackerrank.com/certificates/753c8912e702)  
+- [MTA: Introduction to Programming Using Python – Microsoft (Issued Jul 2021)](https://www.credly.com/badges/3a44bd3a-e514-4672-83bb-f2f70c398678?source=linked_in_profile)  
 
-- Published **customizable Excel-like React Table component** on npm  
-- Contributed to GitHub repositories on **React performance** and **Tailwind UI patterns**
+---
+
+## OPEN SOURCE CONTRIBUTIONS
+- Published customizable React table component with Excel-like functionality on npm  
+- Contributed to GitHub repositories focused on React performance and Tailwind-based UI best practices  
