@@ -2,8 +2,7 @@
 # AJAY PAL
 **Software Developer**  
 Airoli, Navi Mumbai, India  
-📞 +91 7208401709 | 📧 ajaypal05192@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/ajay-pal0) | [GitHub](https://github.com/ajay-pal0)
+📞 +91 7208401709 | 📧 ajaypal05192@gmail.com 🌐 [LinkedIn](https://www.linkedin.com/in/ajay-pal0) | [GitHub](https://github.com/ajay-pal0)
 
 ---
 
