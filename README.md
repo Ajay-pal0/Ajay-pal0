@@ -1,4 +1,3 @@
-
 # AJAY PAL
 **Software Developer**  
 Airoli, Navi Mumbai, India  
@@ -7,15 +6,15 @@ Airoli, Navi Mumbai, India
 ---
 
 ## SUMMARY
-Results-driven Software Developer with 3+ years of experience in building performant, scalable, and user-centric web and mobile applications. Specializes in modern frontend frameworks like React.js and React Native, with strong proficiency in Tailwind CSS and Material UI. Demonstrated success in delivering enterprise-grade financial platforms, AI dashboards, and compliance-driven tools with measurable performance improvements and excellent UX.
+Results-driven Software Developer with 3+ years of experience in building performant, scalable, and user-centric web and mobile applications. Specializes in modern frontend frameworks like **React.js**, **Next.js**, and React Native, with strong proficiency in Tailwind CSS and Material UI. Demonstrated success in delivering enterprise-grade financial platforms, AI dashboards, and compliance-driven tools with measurable performance improvements and excellent UX.
 
 ---
 
 ## PROFESSIONAL HIGHLIGHTS
-- 3+ years of hands-on experience in frontend development (React.js, React Native, Tailwind CSS)  
+- 3+ years of hands-on experience in frontend development (**React.js**, **Next.js**, React Native, Tailwind CSS)  
 - Successfully delivered scalable solutions for accounting, HRMS, legal, and AI-based platforms  
 - Built and published custom UI components and tools adopted by teams and external users  
-- Deep understanding of dashboard design, data visualization, and low-latency UI performance  
+- Deep understanding of dashboard design, SEO optimization, data visualization, and low-latency UI performance  
 
 ---
 
@@ -98,7 +97,7 @@ JVM Mehta Degree College, Navi Mumbai | *2017 – 2020*
 ---
 
 ## TECHNICAL SKILLS
-- **Frontend:** React.js, React Native, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI  
+- **Frontend:** React.js, **Next.js**, React Native, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI  
 - **State Management:** Redux, Context API  
 - **Data & Visualization:** Chart.js, Highcharts.js  
 - **Tools & Platforms:** Git, Webpack, npm, Tauri, Firebase, SQLite, React Grid Layout  
@@ -118,4 +117,4 @@ JVM Mehta Degree College, Navi Mumbai | *2017 – 2020*
 
 ## OPEN SOURCE CONTRIBUTIONS
 - Published customizable React table component with Excel-like functionality on npm  
-- Contributed to GitHub repositories focused on React performance and Tailwind-based UI best practices  
+- Contributed to GitHub repositories focused on React performance and Tailwind-based UI best practices
