@@ -6,12 +6,12 @@ Airoli, Navi Mumbai, India
 ---
 
 ## SUMMARY
-Results-driven Software Developer with 3+ years of experience in building performant, scalable, and user-centric web and mobile applications. Specializes in modern frontend frameworks like **React.js**, **Next.js**, and React Native, with strong proficiency in Tailwind CSS and Material UI. Demonstrated success in delivering enterprise-grade financial platforms, AI dashboards, and compliance-driven tools with measurable performance improvements and excellent UX.
+Results-driven Software Developer with 4+ years of experience in building performant, scalable, and user-centric web and mobile applications. Specializes in modern frontend frameworks like **React.js**, **Next.js**, and React Native, with strong proficiency in Tailwind CSS and Material UI. Demonstrated success in delivering enterprise-grade financial platforms, AI dashboards, and compliance-driven tools with measurable performance improvements and excellent UX.
 
 ---
 
 ## PROFESSIONAL HIGHLIGHTS
-- 3+ years of hands-on experience in frontend development (**React.js**, **Next.js**, React Native, Tailwind CSS)  
+- 4+ years of hands-on experience in frontend development (**React.js**, **Next.js**, React Native, Tailwind CSS)  
 - Successfully delivered scalable solutions for accounting, HRMS, legal, and AI-based platforms  
 - Built and published custom UI components and tools adopted by teams and external users  
 - Deep understanding of dashboard design, SEO optimization, data visualization, and low-latency UI performance  
